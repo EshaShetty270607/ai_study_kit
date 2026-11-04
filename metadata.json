@@ -1,0 +1,6 @@
+{
+  "name": "AcademiaKit - AI Study Kit & Exam Prep Assistant",
+  "description": "Transform raw study notes, lecture transcripts, and document photos into structured study kits with key concepts, practice exam questions (MCQ, Short Answer, Application), and interactive flashcards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
